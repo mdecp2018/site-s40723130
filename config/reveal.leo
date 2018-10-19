@@ -24,10 +24,13 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181014110609.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20181014110609.1"><vh>投影片1</vh>
 <v t="leo.20181014110609.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181019145815.1"><vh>投影片2</vh>
+<v t="leo.20181019145815.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -341,6 +344,19 @@ make.start()
 <t tx="leo.20181014110609.2">##week1 投影片
 
 *測試1 [勘履者Kenlu.net](https://kenlu.net/)
+</t>
+<t tx="leo.20181019145815.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181019145815.2">##日文教學影片
+
+*[RyuuuTV五十音](https://www.youtube.com/watch?v=GmRdUUVgSAA)
 </t>
 </tnodes>
 </leo_file>
