@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20180827201556.1"><vh>@settings</vh>
+<v t="leo.20180827201556.1" a="E"><vh>@settings</vh>
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -24,10 +24,10 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181014110609.1"><vh>投影片1</vh>
+<v t="leo.20181014110609.1" a="E"><vh>投影片1</vh>
 <v t="leo.20181014110609.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181019145815.1"><vh>投影片2</vh>
+<v t="leo.20181019145815.1" a="E"><vh>投影片2</vh>
 <v t="leo.20181019145815.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
