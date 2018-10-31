@@ -12,3 +12,5 @@ cpgx 網站: https://cpgx.kmol.info
 40723130網站:https://mdecp2018.github.io/site-s40723130/content/index.html
 
 reveal:https://mdecp2018.github.io/site-s40723130/reveal/index.html#/
+
+blog:https://mdecp2018.github.io/site-s40723130/blog/index.html
