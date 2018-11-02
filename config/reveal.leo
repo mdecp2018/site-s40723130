@@ -341,10 +341,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181014110609.2">##week1 投影片
+<t tx="leo.20181014110609.2">#week4 投影片練習
 
-*測試1 [勘履者Kenlu.net](https://kenlu.net/)
-</t>
+* 測試1 [勘履者Kenlu.net](https://kenlu.net/)
+
+* 測試2[github](https://github.com/)</t>
 <t tx="leo.20181019145815.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
